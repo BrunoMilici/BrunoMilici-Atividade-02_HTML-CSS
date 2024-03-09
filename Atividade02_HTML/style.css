@@ -1,31 +1,31 @@
 .divPaiA{
     height: 500px;
     width: 500px;
-    background-color:#FFA500;
+    background-color:#7300f7;
 }
 
 .divFilhoB{
     height: 50%;
     width: 50%;
-    background-color: #90EE90;
+    background-color: #39d412;
 }
 
 .paragrafoC{
-    color: white;
-    background-color: #FF0000;
+    color: rgb(255, 255, 255);
+    background-color: #d80d8a;
     font-size: 25px; 
-    font-family: monospace;
+    font-family: cursive ;
     font-weight: bold;
 }
 
 .divPaiD{
     width: 50%; 
     height: 50vh; 
-    background-color:rgb(173, 216, 230);
+    background-color:rgb(65, 126, 83);
 }
 
 .divFilhoE{
     width: 75vw;
     height: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(197, 14, 221);
 }
